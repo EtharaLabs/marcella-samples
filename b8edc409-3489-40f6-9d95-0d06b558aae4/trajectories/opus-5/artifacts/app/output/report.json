@@ -1,0 +1,268 @@
+{
+  "efficiency": [
+    {
+      "geometry": "F",
+      "energy_keV": 122.06,
+      "efficiency": 0.09837309983361849
+    },
+    {
+      "geometry": "F",
+      "energy_keV": 364.49,
+      "efficiency": 0.06139709328513425
+    },
+    {
+      "geometry": "F",
+      "energy_keV": 529.87,
+      "efficiency": 0.044952770549360595
+    },
+    {
+      "geometry": "F",
+      "energy_keV": 661.66,
+      "efficiency": 0.03692680375524714
+    },
+    {
+      "geometry": "F",
+      "energy_keV": 795.86,
+      "efficiency": 0.031350307084919725
+    },
+    {
+      "geometry": "F",
+      "energy_keV": 1173.23,
+      "efficiency": 0.022637623409788782
+    },
+    {
+      "geometry": "F",
+      "energy_keV": 1332.49,
+      "efficiency": 0.020556270185909713
+    },
+    {
+      "geometry": "M",
+      "energy_keV": 122.06,
+      "efficiency": 0.048749120160969994
+    },
+    {
+      "geometry": "M",
+      "energy_keV": 364.49,
+      "efficiency": 0.036234457308228385
+    },
+    {
+      "geometry": "M",
+      "energy_keV": 529.87,
+      "efficiency": 0.02741375088116491
+    },
+    {
+      "geometry": "M",
+      "energy_keV": 661.66,
+      "efficiency": 0.022877961282595862
+    },
+    {
+      "geometry": "M",
+      "energy_keV": 795.86,
+      "efficiency": 0.019655872631583304
+    },
+    {
+      "geometry": "M",
+      "energy_keV": 1173.23,
+      "efficiency": 0.014540714654561374
+    },
+    {
+      "geometry": "M",
+      "energy_keV": 1332.49,
+      "efficiency": 0.013315740490094883
+    }
+  ],
+  "results": [
+    {
+      "sample_id": "AF-01",
+      "nuclide": "Cs-134",
+      "quantity": "mean_activity_concentration",
+      "unit": "Bq/m3",
+      "reference_time": "2026-10-21T04:00:00Z",
+      "value": 3.4502728844839075,
+      "standard_uncertainty": 0.14129504963457143,
+      "decision_threshold": 0.0004307063680782719,
+      "detection_limit": 0.0008669220551660541,
+      "detected": true
+    },
+    {
+      "sample_id": "AF-01",
+      "nuclide": "Cs-137",
+      "quantity": "mean_activity_concentration",
+      "unit": "Bq/m3",
+      "reference_time": "2026-10-21T04:00:00Z",
+      "value": 4.309336708208848,
+      "standard_uncertainty": 0.1383451399696064,
+      "decision_threshold": 0.0005906196131201986,
+      "detection_limit": 0.0011856877958000757,
+      "detected": true
+    },
+    {
+      "sample_id": "AF-01",
+      "nuclide": "I-131",
+      "quantity": "mean_activity_concentration",
+      "unit": "Bq/m3",
+      "reference_time": "2026-10-21T04:00:00Z",
+      "value": 27.581534395172962,
+      "standard_uncertainty": 0.9009295490778447,
+      "decision_threshold": 0.0008565844706720039,
+      "detection_limit": 0.001718945448473962,
+      "detected": true
+    },
+    {
+      "sample_id": "AF-01",
+      "nuclide": "I-133",
+      "quantity": "mean_activity_concentration",
+      "unit": "Bq/m3",
+      "reference_time": "2026-10-21T04:00:00Z",
+      "value": 40.12778569462994,
+      "standard_uncertainty": 1.2978988407094363,
+      "decision_threshold": 0.0019390027845309714,
+      "detection_limit": 0.0038917255380805154,
+      "detected": true
+    },
+    {
+      "sample_id": "RW-01",
+      "nuclide": "Cs-134",
+      "quantity": "activity_concentration",
+      "unit": "Bq/L",
+      "reference_time": "2026-10-20T18:00:00Z",
+      "value": 0.9172475961072531,
+      "standard_uncertainty": 0.05168821521316605,
+      "decision_threshold": 0.05433413400809511,
+      "detection_limit": 0.11098348256631427,
+      "detected": true
+    },
+    {
+      "sample_id": "RW-01",
+      "nuclide": "Cs-137",
+      "quantity": "activity_concentration",
+      "unit": "Bq/L",
+      "reference_time": "2026-10-20T18:00:00Z",
+      "value": 1.1299953225248585,
+      "standard_uncertainty": 0.051245558258375644,
+      "decision_threshold": 0.04541204065209295,
+      "detection_limit": 0.09267584488303365,
+      "detected": true
+    },
+    {
+      "sample_id": "RW-01",
+      "nuclide": "I-131",
+      "quantity": "activity_concentration",
+      "unit": "Bq/L",
+      "reference_time": "2026-10-20T18:00:00Z",
+      "value": 45.884444516436346,
+      "standard_uncertainty": 1.4379478794639051,
+      "decision_threshold": 0.20766294194573331,
+      "detection_limit": 0.4177330490981641,
+      "detected": true
+    },
+    {
+      "sample_id": "RW-01",
+      "nuclide": "I-133",
+      "quantity": "activity_concentration",
+      "unit": "Bq/L",
+      "reference_time": "2026-10-20T18:00:00Z",
+      "value": 61.0757863198561,
+      "standard_uncertainty": 1.9260119611194657,
+      "decision_threshold": 0.23792378042851994,
+      "detection_limit": 0.48608192261008715,
+      "detected": true
+    },
+    {
+      "sample_id": "AF-02",
+      "nuclide": "Cs-134",
+      "quantity": "mean_activity_concentration",
+      "unit": "Bq/m3",
+      "reference_time": "2026-10-24T06:00:00Z",
+      "value": 0.25537291825829833,
+      "standard_uncertainty": 0.010473789523627382,
+      "decision_threshold": 0.0001372749688490814,
+      "detection_limit": 0.0002793681345976612,
+      "detected": true
+    },
+    {
+      "sample_id": "AF-02",
+      "nuclide": "Cs-137",
+      "quantity": "mean_activity_concentration",
+      "unit": "Bq/m3",
+      "reference_time": "2026-10-24T06:00:00Z",
+      "value": 0.31024829203229715,
+      "standard_uncertainty": 0.009977759337049306,
+      "decision_threshold": 0.0004276280894708813,
+      "detection_limit": 0.0008602279320832131,
+      "detected": true
+    },
+    {
+      "sample_id": "AF-02",
+      "nuclide": "I-131",
+      "quantity": "mean_activity_concentration",
+      "unit": "Bq/m3",
+      "reference_time": "2026-10-24T06:00:00Z",
+      "value": 1.917839807093706,
+      "standard_uncertainty": 0.06265539754382914,
+      "decision_threshold": 0.00026763136828526714,
+      "detection_limit": 0.0005387201783655822,
+      "detected": true
+    },
+    {
+      "sample_id": "AF-02",
+      "nuclide": "I-133",
+      "quantity": "mean_activity_concentration",
+      "unit": "Bq/m3",
+      "reference_time": "2026-10-24T06:00:00Z",
+      "value": 2.4799206123899187,
+      "standard_uncertainty": 0.08026360365062742,
+      "decision_threshold": 0.0007568775188422801,
+      "detection_limit": 0.0015272477245371712,
+      "detected": true
+    },
+    {
+      "sample_id": "MK-01",
+      "nuclide": "Cs-134",
+      "quantity": "activity_concentration",
+      "unit": "Bq/L",
+      "reference_time": "2026-10-23T05:30:00Z",
+      "value": -0.019011009818580064,
+      "standard_uncertainty": 0.0189095767406295,
+      "decision_threshold": 0.031737938931842936,
+      "detection_limit": 0.06581105175601615,
+      "detected": false
+    },
+    {
+      "sample_id": "MK-01",
+      "nuclide": "Cs-137",
+      "quantity": "activity_concentration",
+      "unit": "Bq/L",
+      "reference_time": "2026-10-23T05:30:00Z",
+      "value": 0.22866565767581154,
+      "standard_uncertainty": 0.02717429489082243,
+      "decision_threshold": 0.03832441035168528,
+      "detection_limit": 0.07858644670764153,
+      "detected": true
+    },
+    {
+      "sample_id": "MK-01",
+      "nuclide": "I-131",
+      "quantity": "activity_concentration",
+      "unit": "Bq/L",
+      "reference_time": "2026-10-23T05:30:00Z",
+      "value": 12.454884463909893,
+      "standard_uncertainty": 0.39658806475757863,
+      "decision_threshold": 0.038099831055859006,
+      "detection_limit": 0.07797140581004236,
+      "detected": true
+    },
+    {
+      "sample_id": "MK-01",
+      "nuclide": "I-133",
+      "quantity": "activity_concentration",
+      "unit": "Bq/L",
+      "reference_time": "2026-10-23T05:30:00Z",
+      "value": 9.122256015316228,
+      "standard_uncertainty": 0.4995776527028496,
+      "decision_threshold": 0.487738450438014,
+      "detection_limit": 1.0029051023620261,
+      "detected": true
+    }
+  ]
+}

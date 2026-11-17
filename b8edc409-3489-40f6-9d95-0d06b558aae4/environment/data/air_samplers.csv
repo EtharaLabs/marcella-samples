@@ -1,0 +1,3 @@
+sampler,station,filter,filter_diameter_mm,active_diameter_mm,counting
+HVS-N,Nord,polypropylene fibre,200,190,pressed
+HVS-S,Sued,glass fibre,100,90,flat

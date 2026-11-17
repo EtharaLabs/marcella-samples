@@ -1,0 +1,42 @@
+[
+  {
+    "source": "/logs/artifacts",
+    "destination": "artifacts/logs/artifacts",
+    "type": "directory",
+    "status": "ok",
+    "service": null,
+    "exclude": []
+  },
+  {
+    "source": "/app/output/results.json",
+    "destination": "artifacts/app/output/results.json",
+    "type": "file",
+    "status": "ok",
+    "service": null,
+    "exclude": []
+  },
+  {
+    "source": "/app/output/lives.csv",
+    "destination": "artifacts/app/output/lives.csv",
+    "type": "file",
+    "status": "ok",
+    "service": null,
+    "exclude": []
+  },
+  {
+    "source": "/app/output/method.md",
+    "destination": "artifacts/app/output/method.md",
+    "type": "file",
+    "status": "ok",
+    "service": null,
+    "exclude": []
+  },
+  {
+    "source": "/var/lib/hpr-integrity/inputs.sha256",
+    "destination": "artifacts/var/lib/hpr-integrity/inputs.sha256",
+    "type": "file",
+    "status": "ok",
+    "service": null,
+    "exclude": []
+  }
+]

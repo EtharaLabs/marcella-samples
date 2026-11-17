@@ -1,0 +1,6 @@
+*
+!requirements.txt
+!docs
+!docs/**
+!data
+!data/**

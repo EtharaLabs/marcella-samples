@@ -1,0 +1,59 @@
+{
+ "results": {
+  "tool": {
+   "name": "harbor-rewardkit"
+  },
+  "summary": {
+   "tests": 8,
+   "passed": 7,
+   "failed": 1,
+   "pending": 0,
+   "skipped": 0,
+   "other": 0,
+   "start": 1794647804378,
+   "stop": 1794647804378
+  },
+  "tests": [
+   {
+    "name": "gate_input_data",
+    "status": "passed",
+    "duration": 0
+   },
+   {
+    "name": "gate_grader_text",
+    "status": "passed",
+    "duration": 0
+   },
+   {
+    "name": "gate_regular_files",
+    "status": "passed",
+    "duration": 0
+   },
+   {
+    "name": "d1_periods",
+    "status": "passed",
+    "duration": 0
+   },
+   {
+    "name": "d2_method",
+    "status": "passed",
+    "duration": 0
+   },
+   {
+    "name": "p1_recovery",
+    "status": "passed",
+    "duration": 0
+   },
+   {
+    "name": "p2_flag_coverage",
+    "status": "passed",
+    "duration": 0
+   },
+   {
+    "name": "p2_flag_precision",
+    "status": "failed",
+    "duration": 0
+   }
+  ]
+ }
+}

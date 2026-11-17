@@ -1,0 +1,84 @@
+{
+  "results": {
+    "tool": {
+      "name": "rewardkit"
+    },
+    "summary": {
+      "tests": 13,
+      "passed": 12,
+      "failed": 1,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "start": 0,
+      "stop": 0
+    },
+    "tests": [
+      {
+        "name": "R01",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "R02",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "R03",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "R04",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "R05",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "R06",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "R07",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "R08",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "R09",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "R10",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "R11",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "R12",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "R13",
+        "status": "passed",
+        "duration": 0
+      }
+    ]
+  }
+}

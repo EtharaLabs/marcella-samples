@@ -1,0 +1,12 @@
+*
+!requirements.lock.txt
+!requirements.override.txt
+!mrd_grading.py
+!ctrf_report.py
+!test.sh
+!test_output.py
+!reward.toml
+!judge.toml
+!reference.md
+!key/
+!key/**

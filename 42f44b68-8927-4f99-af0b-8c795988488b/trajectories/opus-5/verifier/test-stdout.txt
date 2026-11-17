@@ -1,0 +1,4 @@
+reward: 0.0
+reward: 0
+reward: 1.0
+judge score 1.0 (reported only; the reward is unchanged)

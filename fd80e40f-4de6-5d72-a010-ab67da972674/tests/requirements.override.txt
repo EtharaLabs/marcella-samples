@@ -1,0 +1,6 @@
+# litellm 1.104.0 and later, the pinned 1.106.4 included, declare filelock<4.0, and no litellm release
+# allows filelock 4. This override installs filelock 4.2.4, which carries none of the 13 OSV advisories
+# of the 3.32.7 those bounds would hold the verifier at. Reward Kit never runs litellm's filelock callers.
+filelock==4.2.4 \
+    --hash=sha256:301241438c57936ef93f4243a94f2559022268bfcf9b375a9a72eb0f8db8358e \
+    --hash=sha256:c6d8663535e1650ee430507b4ffbac7b464dd64b7647ea0112a9f406499d163d

@@ -1,0 +1,6 @@
+parameter,value,unit,description
+fwhm_f0_keV2,0.62,keV^2,"FWHM(E) = sqrt(fwhm_f0_keV2 + fwhm_f1_keV * E), E in keV"
+fwhm_f1_keV,0.00185,keV,see fwhm_f0_keV2
+efficiency_u_rel_F,0.025,1,"relative standard uncertainty of the fitted efficiency, geometry F"
+efficiency_u_rel_M,0.03,1,"relative standard uncertainty of the fitted efficiency, geometry M"
+pulse_pair_resolving_time_s,3e-06,s,pulse-pair resolving time of the pile-up rejector: a pulse is discarded when another pulse arrives within this time before or after it

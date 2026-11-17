@@ -1,0 +1,9 @@
+[scoring.test_output]
+aggregation = "threshold"
+threshold = 1.0
+
+[[reward]]
+name = "reward"
+aggregation = "threshold"
+threshold = 1.0
+weights = { test_output = 1.0 }

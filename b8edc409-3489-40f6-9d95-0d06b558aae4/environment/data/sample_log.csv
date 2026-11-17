@@ -1,0 +1,10 @@
+sample_id,kind,matrix,geometry,spectrum,source_id,sampling_start_utc,sampling_end_utc,quantity,quantity_unit,u_rel_quantity_percent,description
+CAL-F,calibration,,F,CAL-F,MX-F-2607,,,,,,"mixed-nuclide standard MX-F-2607, filter geometry F"
+CAL-M,calibration,,M,CAL-M,MX-M-2607,,,,,,"mixed-nuclide standard MX-M-2607, 1-L Marinelli geometry M"
+BKG,background,,,BKG,,,,,,,"shield background, shield empty"
+BKG-MW,background,,M,BKG-MW,,,,,,,"shield background, 1-L Marinelli beaker of deionised water on the detector"
+QC-F,qc,,F,QC-F,QC-CS-2604,,,,,,"daily check source QC-CS-2604 (Cs-137), geometry F"
+AF-01,sample,air,F,AF-01,,2026-10-19T04:00:00Z,2026-10-21T04:00:00Z,1171,m3,2,"high-volume air filter, station Nord, pressed to geometry F"
+RW-01,sample,water,M,RW-01,,2026-10-19T18:00:00Z,2026-10-20T18:00:00Z,1,L,0.5,"rainwater, collector Nord, 1-L Marinelli"
+AF-02,sample,air,F,AF-02,,2026-10-23T06:00:00Z,2026-10-24T06:00:00Z,721.4,m3,2,"high-volume air filter, station Sued, geometry F"
+MK-01,sample,milk,M,MK-01,,2026-10-23T05:30:00Z,2026-10-23T05:30:00Z,1,L,0.5,"raw milk, farm Weiden, 1-L Marinelli"
