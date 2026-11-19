@@ -166,6 +166,6 @@ The 160 FCS files of `fd80e40f` are stored with Git LFS. Install Git LFS before 
 
 ## Contact
 
-Marcella is built by [Ethara.AI](https://github.com/Ethara-Ai).
+Marcella is built by [Ethara.AI](https://github.com/Ethara-Ai). For questions about the benchmark or dataset, contact [research@ethara.ai](mailto:research@ethara.ai).
 
 Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
